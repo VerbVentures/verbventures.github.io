@@ -25,3 +25,9 @@ body > .container {
   height: 60px;
   line-height: 60px;
 }
+
+.disable {
+    pointer-events: none;
+    cursor: default;
+    color: gray;
+}
